@@ -1,0 +1,1 @@
+Gosto de mexer no cmdechoecho Gosto de mexer com cmdgit commit -m Adicionando meu arquivo de texto para o repositoriogit commit -m Adicionando meu arquivo de texto para o repositorio > aprendizado.txt!
